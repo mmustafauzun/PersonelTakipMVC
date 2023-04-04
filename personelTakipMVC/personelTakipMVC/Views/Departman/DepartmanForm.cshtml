@@ -1,0 +1,21 @@
+﻿@model personelTakipMVC.Models.Departman
+@{
+    ViewBag.Title = "Yeni";
+    Layout = "~/Views/shared/_Layout.cshtml";
+}
+
+<h2>Yeni</h2>
+@using (Html.BeginForm("Kaydet", "Departman", FormMethod.Post))
+{
+
+<div class="form-group">
+    @Html.LabelFor(m => m.Ad)
+    @Html.TextBoxFor(m => m.Ad, new { @class = "form-control" })
+    @Html.LabelFor(m => m.Id)
+    @Html.TextBoxFor(m => m.Id, new { @class = "form-control" })
+</div>
+    @Html.HiddenFor(m => m.Id)
+    <button type="submit" class="btn btn-success">Kaydet</button>
+
+}
+

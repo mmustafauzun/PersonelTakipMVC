@@ -1,0 +1,146 @@
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\personelTakipMVC.dll.config
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\personelTakipMVC.dll
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\personelTakipMVC.pdb
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\csc.exe
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\csc.exe.config
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\csc.rsp
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\csi.exe
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\csi.exe.config
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\csi.rsp
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\Microsoft.Managed.Core.targets
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\System.AppContext.dll
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\System.Collections.Immutable.dll
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\System.Console.dll
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\System.IO.Compression.dll
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\System.IO.FileSystem.dll
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\System.IO.Pipes.dll
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\System.Security.AccessControl.dll
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\System.Security.Claims.dll
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\System.Security.Principal.Windows.dll
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\System.ValueTuple.dll
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\System.Xml.XmlDocument.dll
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\System.Xml.XPath.dll
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\vbc.exe
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\vbc.exe.config
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\vbc.rsp
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\VBCSCompiler.exe
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\VBCSCompiler.exe.config
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\Microsoft.Web.Infrastructure.dll
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\System.Web.Helpers.dll
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\System.Web.Mvc.dll
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\System.Web.Razor.dll
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\System.Web.Webpages.Deployment.dll
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\System.Web.Webpages.dll
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\System.Web.Webpages.Razor.dll
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\System.Web.Razor.xml
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\System.Web.Webpages.xml
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\System.Web.Webpages.Deployment.xml
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\System.Web.Webpages.Razor.xml
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\System.Web.Helpers.xml
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\System.Web.Mvc.xml
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\dersler2022\personelTakipMVC\personelTakipMVC\obj\Debug\personelTakipMVC.csprojAssemblyReference.cache
+D:\dersler2022\personelTakipMVC\personelTakipMVC\obj\Debug\personelTakipMVC.csproj.CoreCompileInputs.cache
+D:\dersler2022\personelTakipMVC\personelTakipMVC\obj\Debug\personelTakipMVC.csproj.CopyComplete
+D:\dersler2022\personelTakipMVC\personelTakipMVC\obj\Debug\personelTakipMVC.dll
+D:\dersler2022\personelTakipMVC\personelTakipMVC\obj\Debug\personelTakipMVC.pdb
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\EntityFramework.dll
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\EntityFramework.SqlServer.dll
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\EntityFramework.xml
+D:\dersler2022\personelTakipMVC\personelTakipMVC\bin\EntityFramework.SqlServer.xml
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\personelTakipMVC.dll.config
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\personelTakipMVC.dll
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\personelTakipMVC.pdb
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\csc.exe
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\csc.exe.config
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\csc.rsp
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\csi.exe
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\csi.exe.config
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\csi.rsp
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\Microsoft.Managed.Core.targets
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\System.AppContext.dll
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\System.Collections.Immutable.dll
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\System.Console.dll
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\System.IO.Compression.dll
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\System.IO.FileSystem.dll
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\System.IO.Pipes.dll
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\System.Reflection.Metadata.dll
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\System.Security.AccessControl.dll
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\System.Security.Claims.dll
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\System.Security.Principal.Windows.dll
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\System.ValueTuple.dll
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\System.Xml.XmlDocument.dll
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\System.Xml.XPath.dll
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\vbc.exe
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\vbc.exe.config
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\vbc.rsp
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\VBCSCompiler.exe
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\roslyn\VBCSCompiler.exe.config
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\EntityFramework.dll
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\EntityFramework.SqlServer.dll
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\Microsoft.Web.Infrastructure.dll
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\System.Web.Helpers.dll
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\System.Web.Mvc.dll
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\System.Web.Razor.dll
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\System.Web.Webpages.Deployment.dll
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\System.Web.Webpages.dll
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\System.Web.Webpages.Razor.dll
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\EntityFramework.xml
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\EntityFramework.SqlServer.xml
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\System.Web.Razor.xml
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\System.Web.Webpages.xml
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\System.Web.Webpages.Deployment.xml
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\System.Web.Webpages.Razor.xml
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\System.Web.Helpers.xml
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\System.Web.Mvc.xml
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\obj\Debug\personelTakipMVC.csproj.AssemblyReference.cache
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\obj\Debug\personelTakipMVC.csproj.CoreCompileInputs.cache
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\obj\Debug\personelTakipMVC.csproj.CopyComplete
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\obj\Debug\personelTakipMVC.dll
+F:\c# çalışmalar\dersler2022\personelTakipMVC\personelTakipMVC\obj\Debug\personelTakipMVC.pdb
